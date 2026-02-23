@@ -10,7 +10,7 @@ Unlike global binarization, **local binarization** applies different thresholds 
 
 ## Application Preview
 
-![Local Image Binarization - GUI](<img width="1752" height="971" alt="image" src="https://github.com/user-attachments/assets/594643eb-1eb3-459d-9549-786de3307a67" />)
+<img width="1752" height="971" alt="image" src="https://github.com/user-attachments/assets/594643eb-1eb3-459d-9549-786de3307a67" />
 
 ---
 
